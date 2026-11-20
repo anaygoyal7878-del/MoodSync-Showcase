@@ -6,6 +6,16 @@ MoodSync is a wellness app that uses wearable data to personalize routines for f
 
 Wearables track signals like heart rate and sleep. MoodSync uses those signals to suggest a routine for the moment. For example, after a short night of sleep, it can suggest a gentler morning routine. Routines can combine reminders, music, and optional smart-home lighting or scent devices.
 
+## Wearable integrations
+
+| Integration | Data used |
+| --- | --- |
+| Fitbit | Heart rate and sleep |
+| WHOOP | Recovery, strain, and sleep |
+| Google Health | Heart rate, sleep, and activity |
+| Apple Watch | Heart rate, sleep, and activity |
+| Apple Fitness | Workouts and activity |
+
 ## Four modes
 
 | Mode | Experience |
