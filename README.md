@@ -2,14 +2,6 @@
 
 MoodSync is a wellness app that uses wearable data to personalize routines for focus, stress relief, sleep, and morning recovery.
 
-## Dashboard previews
-
-The desktop and mobile views show example wellness scores and suggested routines.
-
-![MoodSync desktop dashboard with example wellness scores and quick actions](images/dashboard-desktop.png)
-
-<img src="images/dashboard-mobile.png" alt="MoodSync mobile dashboard with example wellness scores and a suggested focus session" width="320">
-
 ## What it does
 
 Wearables track signals like heart rate and sleep. MoodSync uses those signals to suggest a routine for the moment. For example, after a short night of sleep, it can suggest a gentler morning routine. Routines can combine reminders, music, and optional smart-home lighting or scent devices.
